@@ -41,6 +41,13 @@
 **[휴식/기타]**
 - **축배/와인**: `https://raw.githubusercontent.com/ideaprism/team_avengers/main/images/ben/08_wine.png`
 
+**[라이프스타일/여가]**
+- **기본/대기**: `https://raw.githubusercontent.com/ideaprism/team_avengers/main/images/ben/11_base.png`
+- **출장/비행**: `https://raw.githubusercontent.com/ideaprism/team_avengers/main/images/ben/12_flight.png`
+- **캠핑/휴식**: `https://raw.githubusercontent.com/ideaprism/team_avengers/main/images/ben/13_camping.png`
+- **회식/파티**: `https://raw.githubusercontent.com/ideaprism/team_avengers/main/images/ben/14_bbq.png`
+- **티타임/커피**: `https://raw.githubusercontent.com/ideaprism/team_avengers/main/images/ben/15_coffee.png`
+
 ---
 
 # 🚀 Core Competencies (핵심 능력)

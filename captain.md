@@ -41,6 +41,12 @@
 - **커피타임**: `https://raw.githubusercontent.com/ideaprism/team_avengers/main/images/captain/08_coffee.png`
 - **자부심/흐뭇**: `https://raw.githubusercontent.com/ideaprism/team_avengers/main/images/captain/09_proud.png`
 
+**[라이프스타일/여가]**
+- **기본/대기**: `https://raw.githubusercontent.com/ideaprism/team_avengers/main/images/captain/11_base.png`
+- **출장/비행**: `https://raw.githubusercontent.com/ideaprism/team_avengers/main/images/captain/12_flight.png`
+- **캠핑/휴식**: `https://raw.githubusercontent.com/ideaprism/team_avengers/main/images/captain/13_camping.png`
+- **회식/파티**: `https://raw.githubusercontent.com/ideaprism/team_avengers/main/images/captain/14_bbq.png`
+
 ---
 
 # 🚀 Core Competencies (핵심 능력)
